@@ -61,4 +61,6 @@ This guide provides step-by-step instructions to set up VPC peering between two 
 - **Step 7: Testing Connectivity**
   - Test Connectivity Between Instances:
     - Launch instances in each subnet of the peered VPCs.
-    - Verify connectivity between instances across the peering connection using private IP addresses.
+    - Verify connectivity between instances across the peering connection using private IP
+ ![Image Alt Text](https://github.com/kk4977/VPC-Peering-AWS/blob/main/Screenshot%202024-04-20%20210835.png)
+    
