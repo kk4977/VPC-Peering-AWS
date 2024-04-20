@@ -1,4 +1,5 @@
 ## Setting Up VPC Peering Between Two VPCs in AWS
+![Image Alt Text](https://github.com/kk4977/VPC-Peering-AWS/blob/main/vpc-peering.png)
 
 This guide provides step-by-step instructions to set up VPC peering between two VPCs in AWS, along with creating internet gateways, route tables, and subnets for each VPC.
 
